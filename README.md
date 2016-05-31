@@ -2,7 +2,7 @@
 
 ##Build Results (Including unit tests)
 
-[https://travis-ci.org/shanika/testapp.svg?branch=master](https://travis-ci.org/shanika/testapp)
+[https://travis-ci.org/shanika/testapp](https://travis-ci.org/shanika/testapp)
 
 ##Deployed application
 
