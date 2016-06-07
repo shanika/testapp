@@ -7,7 +7,8 @@
 ##Deployed application
 
 [Demo App](http://52.62.31.206)
-(Bug:( AWS forces the app to sleep which leads to wipe the H2 inmemory DB. If you get an errror pls send me an email. shanikacj@gmail.com I'll quickly restart tomcat. Sorry)
+
+(Bug :( - AWS forces the app to sleep which leads to wipe the H2 inmemory DB. If you get an errror pls send me an email. shanikacj@gmail.com I'll quickly restart tomcat. Sorry)
 
 
 
